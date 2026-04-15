@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Eliseu Varjão 👋
 
-<!--
-**eliseu0409199-png/eliseu0409199-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Iniciante em desenvolvimento Python  
+📍 São Paulo - Brasil  
 
-Here are some ideas to get you started:
+## 🚀 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sistema de Orçamento de Piso
+- Controle de Estoque
+- Gerador de Relatório em TXT  
+
+## 🎯 Objetivo
+
+Buscando minha primeira oportunidade na área de TI.
